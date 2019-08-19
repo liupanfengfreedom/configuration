@@ -13,8 +13,8 @@ namespace Configuration
         static void Main(string[] args)
         {
 
-                Localinfo.createinfo();
-                Remoteinfo.creatinfo();
+                Localinfo.createmakeupinfo();
+              //  Remoteinfo.creatinfo();
            
 
 
